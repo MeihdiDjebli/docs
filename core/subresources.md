@@ -10,6 +10,7 @@ For example, let's create two entities (Question, Answer) and set up a subresour
 the answer to the question 42:
 
 <code-selector>
+
 ```php
 <?php
 // api/src/Entity/Answer.php
